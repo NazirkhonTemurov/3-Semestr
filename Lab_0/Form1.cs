@@ -84,7 +84,12 @@ namespace Lab_0
 
         private void clear_Click(object sender, EventArgs e)
         {
-            
+            a.Clear();
+            b.Clear();
+            h.Clear();
+            m.Clear();
+            Answer_1.Clear();
+
         }
     }
 }
